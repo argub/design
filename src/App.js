@@ -7,9 +7,10 @@ function App() {
     <div className="App">
         <Contacts/>
     </div>
-    
+
   );
 }
+
 
 export default App;
 
