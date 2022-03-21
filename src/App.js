@@ -1,6 +1,5 @@
 import './App.css';
 import Contacts from './components/Contacts';
-import List from './components/Contacts/Lists';
 
 
 function App() {
@@ -8,6 +7,7 @@ function App() {
     <div className="App">
         <Contacts/>
     </div>
+    
   );
 }
 
